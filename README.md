@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Julio Dávila banner" />
+  <img src="./codex-clipboard-b675b23e-9001-4c22-98d6-cb8efbb5c141.png" width="100%" alt="Julio Dávila banner" />
 </div>
 
 <div align="center">

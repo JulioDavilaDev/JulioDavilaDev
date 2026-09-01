@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:30363D&height=180&section=header&text=An%20image%20goes%20here&fontSize=28&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Banner" />
+  <img src="./banner.png" width="100%" alt="Julio Dávila banner" />
 </div>
 
 <div align="center">

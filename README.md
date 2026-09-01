@@ -8,13 +8,13 @@ Estoy construyendo proyectos para seguir creciendo como desarrollador de softwar
 
 </div>
 
+<!-- BANNER PERSONALIZADO: reemplaza este bloque por tu propia imagen cuando la tengas.
+<p align="center"><img src="URL_DE_TU_BANNER" alt="Banner de Julio Dávila" width="100%" /></p>
+-->
+
+> 🖼️ **Espacio para tu banner personalizado.** Aquí podrás colocar tu imagen cuando la tengas lista.
+
 ---
-
-## Sobre mí
-
-- Interesado en crear soluciones de **backend**, sistemas y desarrollo web.
-- Aprendiendo, practicando y convirtiendo ideas en proyectos reales.
-- Este perfil reúne mi progreso y los proyectos que voy construyendo.
 
 ## Tecnologías
 
@@ -43,6 +43,12 @@ Estoy construyendo proyectos para seguir creciendo como desarrollador de softwar
 ## En este momento
 
 Estoy fortaleciendo mis bases en desarrollo de software, backend y web mediante proyectos prácticos.
+
+## Actividad de GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulioDavilaDev&theme=github-compact&hide_border=true&area=true" alt="Actividad de GitHub de Julio Dávila" />
+</div>
 
 ---
 

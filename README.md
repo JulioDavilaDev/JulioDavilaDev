@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Intelligent Computing Engineering · AI Specialization
+### Intelligent Computing Engineering
 
 Building at the intersection of intelligent systems and web development.
 

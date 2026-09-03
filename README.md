@@ -18,8 +18,8 @@ Building at the intersection of intelligent systems and web development.
   <tr>
     <td align="center" width="50%">
       <h3>Backend & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=python,js,cpp&theme=dark" height="48" alt="Python, JavaScript, and C++" /><br />
-      <sub>Python · JavaScript · C++</sub>
+      <img src="https://skillicons.dev/icons?i=python,js,cpp,lua&theme=dark" height="48" alt="Python, JavaScript, C++, and Lua" /><br />
+      <sub>Python · JavaScript · C++ · Lua</sub>
     </td>
     <td align="center" width="50%">
       <h3>Web Development</h3>
